@@ -4,6 +4,12 @@ This repository packages the publicly shareable materials for the Forest Carbon 
 workshop. Participants will find the combined handout PDF and a reference library of the
 primary protocol documents discussed during the session.
 
+## Quick Access
+
+Scan the QR code below to open this repository directly on your mobile device:
+
+![Workshop materials QR code](https://api.qrserver.com/v1/create-qr-code/?size=240x240&data=https%3A%2F%2Fgithub.com%2FUBC-FRESH%2Fforest-carbon-offset-protocol-summaries-publish)
+
 ## Contents
 
 - `outputs/forest-offset-handout.pdf` – consolidated handout summarising the four standards
@@ -40,4 +46,3 @@ make all
 
 The build script regenerates the handout PDF, and `make all` synchronises the PDF and
 reference files into this publication repository.
-
