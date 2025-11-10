@@ -14,6 +14,9 @@ Scan the QR code below to open this repository directly on your mobile device:
 
 - `outputs/forest-offset-handout.pdf` – consolidated handout summarising the four standards
   reviewed in the workshop.
+- `outputs/forest-offset-vulnerabilities.pdf` – companion briefing outlining potential
+  vulnerabilities and discussion prompts for each standard, organised by the KPI
+  framework.
 - `reference/` – supporting protocol documents and tools sourced from the programme owners.
 
 ## Protocol Resources
