@@ -27,7 +27,7 @@ Scan the QR code below to open this repository directly on your mobile device:
   discussion prompts that surface potential design weaknesses.
 - [Forest Offset Vulnerabilities Briefing (Markdown)](outputs/forest-offset-vulnerabilities.md) –
   Markdown version for quick browsing.
-- [Reference Library](reference) – supporting protocol documents and tools sourced from the
+- [Reference Library](reference/) – supporting protocol documents and tools sourced from the
   programme owners.
 
 ## Reference Downloads
