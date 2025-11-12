@@ -4,19 +4,31 @@ This repository packages the publicly shareable materials for the Forest Carbon 
 workshop. Participants will find the combined handout PDF and a reference library of the
 primary protocol documents discussed during the session.
 
+## Workshop Context
+
+These resources accompany the UBC Sustainability Hub event
+[Negotiation Innovation: Advancing Climate Action through Research and Learning](https://sustain.ubc.ca/events/negotiation-innovation-advancing-climate-action-through-research-and-learning).
+They are distributed in draft form to encourage critical engagement; updated editions will
+be published as peer review concludes.
+
 ## Quick Access
 
 Scan the QR code below to open this repository directly on your mobile device:
 
-![Workshop materials QR code](https://api.qrserver.com/v1/create-qr-code/?size=240x240&data=https%3A%2F%2Fgithub.com%2FUBC-FRESH%2Fforest-carbon-offset-protocol-summaries-publish)
+![Workshop materials QR code](https://api.qrserver.com/v1/create-qr-code/?size=240x240&data=https%3A%2F%2Fubc-fresh.github.io%2Fforest-carbon-offset-protocol-summaries-publish%2F)
 
 ## Contents
 
-- `outputs/forest-offset-handout.pdf` / `.md` – consolidated handout summarising the four
-  standards reviewed in the workshop (PDF for printing, Markdown for quick mobile viewing).
-- `outputs/forest-offset-vulnerabilities.pdf` / `.md` – companion briefing outlining potential
-  vulnerabilities and discussion prompts for each standard, organised by the KPI framework.
-- `reference/` – supporting protocol documents and tools sourced from the programme owners.
+- [Forest Offset Handout (PDF)](outputs/forest-offset-handout.pdf) – consolidated participant
+  summary covering all four standards; optimised for printing.
+- [Forest Offset Handout (Markdown)](outputs/forest-offset-handout.md) – same content in a
+  mobile-friendly format.
+- [Forest Offset Vulnerabilities Briefing (PDF)](outputs/forest-offset-vulnerabilities.pdf) –
+  discussion prompts that surface potential design weaknesses.
+- [Forest Offset Vulnerabilities Briefing (Markdown)](outputs/forest-offset-vulnerabilities.md) –
+  Markdown version for quick browsing.
+- [Reference Library](reference) – supporting protocol documents and tools sourced from the
+  programme owners.
 
 ## Protocol Resources
 
@@ -36,6 +48,11 @@ versions and programme updates.
 All materials are distributed under the Creative Commons Attribution 4.0 International (CC BY
 4.0) licence. When reusing content, please attribute to the workshop organisers and the
 original protocol authors.
+
+---
+
+_Acknowledgement_: These materials were assembled with assistance from an LLM coding agent.
+Content remains under active collaborator review; expect revisions as feedback is incorporated.
 
 ## Rebuilding the Package
 
